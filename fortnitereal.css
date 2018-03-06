@@ -1,0 +1,344 @@
+#FirstImage
+{
+	height: 600px;
+	width: 1000px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+}/* End of FirstImage*/
+#SCAR
+{
+	height: 250px;
+	width: 250px;
+	float: left;
+}/* End of SCAR*/
+#SNIPER
+{
+	height: 250px;
+	width: 250px;
+	float: left;
+}/* End of SNIPER*/
+#SHOTGUN
+{
+	height: 250px;
+	width: 250px;
+	float: left;
+}/* End of SHOTGUN*/
+#WEAPONS
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/*End of WEAPONS */
+
+#argif
+{
+	float: right;
+}
+
+#map
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of map*/
+#Snobby
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Snobby*/
+#Haunted
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Haunted*/
+#Junk
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Junk*/
+#Pleasant
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Pleasant*/
+#Anarchy
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Anarchy*/
+#Tilted
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Tilted*/
+
+#credit
+{
+	text-align: center;
+	font-size: 12px;
+	font-family: "century Gothic";
+	color: white;
+}/*End of credit*/
+
+body
+{
+	background-color: #151e1e;/*Dark Navy Blue*/
+	
+}/* End of body*/
+h1
+{
+	text-align: center;
+	font-size: 32px;
+	font-family: "century Gothic";
+	color: white;
+	background-color: #2a3c3c;/*Light Navy Blue*/
+}/* End of h1*/
+h2
+{
+	text-align: center;
+	font-size: 24px;
+	font-family: "century Gothic";
+	color: white;
+	background-color: #2a3c3c;/*Light Navy Blue*/
+}/* End of h2*/
+h3
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: "century Gothic";
+	color: white;
+	background-color: #2a3c3c;/*Light Navy Blue*/
+}/* End of h3*/
+#AR
+{
+	font-size: 28px;
+
+}/* End of AR*/
+
+img
+{
+	color: white; /*This is so that the alternative text for the images are readable*/
+}/*End of img*/
+
+p
+{
+	text-align: center;
+	color: white;
+	font-size: 18px;
+	font-family: "century Gothic";
+	margin-left: 70px;
+	margin-right: 70px;
+	font-weight: bold;
+}/* End of p*/
+
+#externalref
+{
+	color: #466d6d; /*Light Blue*/
+}
+#ppap{
+margin-left: 25%;
+}
+#refer
+{
+	text-align: center;
+	color: white;
+	font-size: 36px;
+	font-family: "century Gothic";
+	margin-left: 70px;
+	margin-right: 70px;
+	font-weight: bold;
+}/* End of refer*/
+
+#jump
+{
+	height: 250px;
+	width: 360px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/* End of jump*/
+
+#land
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/*End of land*/
+
+#Combat
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/*End of Combat*/
+
+#Endgame
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/*End of Endgame*/
+
+#button1
+{
+	background-color: #466d6d; /*Light Blue*/
+    color: white;
+    border: 2px solid #555555; /* Dark Grey*/
+	font-family: "Century gothic";
+	padding: 7px 32px;
+	text-align: center;
+	font-family: "Century gothic";
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+	border-width: 4px;
+	border-radius: 4px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/* End of button*/
+
+#button2
+{
+	background-color: #466d6d; /*Light Blue*/
+    color: white;
+    border: 2px solid #555555; /* Dark Grey*/
+	font-family: "Century gothic";
+	padding: 7px 32px;
+	text-align: center;
+	font-family: "Century gothic";
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: bold;
+	border-width: 4px;
+	border-radius: 4px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	transition-duration: 0.4s;
+}/* End of button*/
+
+#button1:hover 
+{
+    background-color: white;
+    color: #466d6d; /*Light Blue*/
+	cursor: pointer;
+}/* End of button hover*/
+
+#button2:hover 
+{
+    background-color: white;
+    color: #466d6d; /*Light Blue*/
+	cursor: pointer;
+}/* End of button2 hover*/
+#top
+{
+	float: left;
+	background-color: #466d6d; /*Light Blue*/
+    color: white;
+    border: 2px solid #555555; /* Dark Grey*/
+	font-family: "Century gothic";
+	text-align: center;
+	font-family: "Century gothic";
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: bold;
+	transition-duration: 0.4s;
+	border-width: 4px;
+	border-radius: 4px;
+	display: block;
+	transition-duration: 0.4s;
+}
+
+#top:hover 
+{
+    background-color: white;
+    color: #466d6d; /*Light Blue*/
+	cursor: pointer;
+}/* End of top hover*/
+
+#TopBar 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;/*Dark Grey*/
+}/* End of Top Bar*/
+
+li
+{
+    float: left;
+}/* End of li*/
+
+li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: "century gothic";
+}/* End of li a*/
+
+li a:hover
+{
+    background-color: #111;/*Black*/
+}/* End of li a hover*/
+
+table{
+	
+	color: black;
+	padding-top: 12px;
+    padding-bottom: 12px;
+	width: 75%;
+	margin-bottom: 25px;
+}/* End of table*/
+
+th
+{
+	text-align: left;
+	background-color:#2a3c3c; /*Light Navy Blue*/
+	color: white;
+}/* End of th*/
+
+tr:nth-child(even)
+{
+	background-color: #f2f2f2; /*Tinted White*/
+}/* End of tr(even)*/
+
+tr:nth-child(odd)
+{
+	background-color: #d3d3d3; /*Light Grey*/
+}/* End of tr(odd) */
+
+table, tr, th
+{
+	border-collapse: collapse;
+	font-family: "Century Gothic";
+}/* End of table tr th*/
+
+th, td 
+{
+    padding: 15px;
+}/* End of tr th*/
+
+ol
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: "century gothic";
+	font-weight: bold;
+}
