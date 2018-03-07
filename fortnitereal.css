@@ -1,36 +1,34 @@
 #FirstImage
 {
-	height: 600px;
-	width: 1000px;
 	display: block;
 	margin-left: auto;
     margin-right: auto;
 	margin-top: 20px;
 }/* End of FirstImage*/
+
 #SCAR
 {
-	height: 250px;
-	width: 250px;
 	float: left;
 }/* End of SCAR*/
+
 #SNIPER
 {
-	height: 250px;
-	width: 250px;
 	float: left;
 }/* End of SNIPER*/
+
 #SHOTGUN
 {
-	height: 250px;
-	width: 250px;
 	float: left;
 }/* End of SHOTGUN*/
-#WEAPONS
+
+#Weaponshome
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
+	margin-top: 20px;
 }/*End of WEAPONS */
+
 
 #argif
 {
@@ -43,36 +41,42 @@
 	margin-left: auto;
 	display: block;
 }/* End of map*/
+
 #Snobby
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 }/* End of Snobby*/
+
 #Haunted
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 }/* End of Haunted*/
+
 #Junk
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 }/* End of Junk*/
+
 #Pleasant
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 }/* End of Pleasant*/
+
 #Anarchy
 {
 	margin-right: auto;
 	margin-left: auto;
 	display: block;
 }/* End of Anarchy*/
+
 #Tilted
 {
 	margin-right: auto;
@@ -80,13 +84,95 @@
 	display: block;
 }/* End of Tilted*/
 
-#credit
+#Greasy
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Greasy*/
+
+#Shifty
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Shifty*/
+
+#Flush
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Flush*/
+
+#Fatal
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Fatal*/
+
+#Moisty
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Moisty*/
+
+#Retail
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Row*/
+
+#Salty
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Salty*/
+
+#Dusty
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Tilted*/
+
+#Tilted
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Dusty*/
+
+#Tomato
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Tomato*/
+
+#Wailing
+{
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}/* End of Wailing*/
+
+#Lonely
 {
 	text-align: center;
-	font-size: 12px;
+	font-size: 10px;
 	font-family: "century Gothic";
 	color: white;
-}/*End of credit*/
+}/*End of Lonely*/
+
+#credit
+{
+	font-size: 10px;
+}
 
 body
 {
@@ -101,22 +187,25 @@ h1
 	color: white;
 	background-color: #2a3c3c;/*Light Navy Blue*/
 }/* End of h1*/
+
 h2
+{
+	text-align: center;
+	font-size: 28px;
+	font-family: "century Gothic";
+	color: white;
+	background-color: #2a3c3c;/*Light Navy Blue*/
+}/* End of h2*/
+
+h3
 {
 	text-align: center;
 	font-size: 24px;
 	font-family: "century Gothic";
 	color: white;
 	background-color: #2a3c3c;/*Light Navy Blue*/
-}/* End of h2*/
-h3
-{
-	text-align: center;
-	font-size: 20px;
-	font-family: "century Gothic";
-	color: white;
-	background-color: #2a3c3c;/*Light Navy Blue*/
 }/* End of h3*/
+
 #AR
 {
 	font-size: 28px;
@@ -134,8 +223,8 @@ p
 	color: white;
 	font-size: 18px;
 	font-family: "century Gothic";
-	margin-left: 70px;
-	margin-right: 70px;
+	margin-left: 12%;
+	margin-right: 12%;
 	font-weight: bold;
 }/* End of p*/
 
@@ -143,19 +232,46 @@ p
 {
 	color: #466d6d; /*Light Blue*/
 }
-#ppap{
-margin-left: 25%;
-}
-#refer
+
+#glossary
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	margin-top: 20px;
+}/*End of Reference*/
+
+#building
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/*End of Building*/
+
+#materials
+{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}/*End of materials*/
+
+#define
+{
+	text-align: left;
+	color: white;
+	font-size: 18px;
+	font-family: "century Gothic";
+	font-weight: bold;
+}/*End of define*/
+
+#disclaimer
 {
 	text-align: center;
 	color: white;
-	font-size: 36px;
+	font-size: 12px;
 	font-family: "century Gothic";
-	margin-left: 70px;
-	margin-right: 70px;
 	font-weight: bold;
-}/* End of refer*/
+}/*End of disclaimer*/
 
 #jump
 {
@@ -334,11 +450,10 @@ th, td
 
 ol
 {
-    display: block;
+    float: left;
+	display: block;
     color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    text-align: left;
 	font-family: "century gothic";
 	font-weight: bold;
 }
